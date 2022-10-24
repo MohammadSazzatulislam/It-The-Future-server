@@ -1,68 +1,73 @@
 [
   {
     "id": "6356bfc68522c8383c07c391",
-    "img": "http://placehold.it/32x32",
-    "name": "Marva Franco",
-    "details": ["sint", "quis", "enim", "proident", "non", "cillum", "culpa"]
+    "img": "https://media.istockphoto.com/photos/big-data-analytics-visualization-technology-with-scientist-analyzing-picture-id1205428317?k=20&m=1205428317&s=612x612&w=0&h=zTM-qtGG9Y3R3I9HCO7LcooiCbeIBolyOA65j1EZxko=",
+    "name": "Big Data Analyst",
+    "details": [
+      "SQL Query",
+      "SQL Reporting",
+      "DB Design Concepts",
+      "Tools (i.e SSIC, SSAS, SSRS)"
+    ]
   },
   {
     "id": "6356bfc69a6473dcc392a40c",
-    "img": "http://placehold.it/32x32",
-    "name": "Jenkins Morse",
+    "img": "https://www.waters.com/webassets/cms/category/media/snapshot/project_management.jpg",
+    "name": "Project Managment",
     "details": [
-      "consectetur",
-      "anim",
-      "excepteur",
-      "non",
-      "et",
-      "elit",
-      "veniam"
+      "Team Management",
+      "Resource Scheduling",
+      "Risk Managment",
+      "Leadership",
+      " Planning and Schedling "
     ]
   },
   {
     "id": "6356bfc60c51676c10161186",
-    "img": "http://placehold.it/32x32",
-    "name": "Leola Norris",
+    "img": "https://st4.depositphotos.com/1907633/19725/i/600/depositphotos_197254472-stock-photo-data-management-system-dms-business.jpg",
+    "name": "Business System Analysis",
     "details": [
-      "officia",
-      "Lorem",
-      "dolor",
-      "tempor",
-      "laborum",
-      "incididunt",
-      "consequat"
+      "Requirement Analysis",
+      "Process Analysis",
+      "Structured Design",
+      "System Design",
+      "Software as a Service (Saas)"
     ]
   },
   {
     "id": "6356bfc6d79ef73d11091d4b",
-    "img": "http://placehold.it/32x32",
-    "name": "Brooks Orr",
-    "details": ["officia", "qui", "labore", "excepteur", "ex", "ea", "duis"]
+    "img": "https://dv-website.s3.amazonaws.com/uploads/2020/04/kf_sywtbdba_04092020.jpg",
+    "name": "Database Admin/Analyst",
+    "details": [
+      "SOL",
+      "DB Programming (tie)",
+      "Database Administration (tie)",
+      "Data Cleansing / Integration",
+      "Backup / Restore"
+    ]
   },
   {
     "id": "6356bfc6a862e5103e22897e",
-    "img": "http://placehold.it/32x32",
-    "name": "Mejia Armstrong",
+    "img": "https://img.freepik.com/free-vector/cyber-security-concept_23-2148532223.jpg?w=2000",
+    "name": "Network / Security",
     "details": [
-      "ad",
-      "consequat",
-      "aliqua",
-      "magna",
-      "cupidatat",
-      "nulla",
-      "esse"
+      "Data Security",
+      "TCP/IP",
+      "Network Security",
+      "Security Policies",
+      "Desktop Support"
     ]
   },
   {
     "id": "6356bfc63415fd52591ae4dc",
-    "img": "http://placehold.it/32x32",
-    "name": "Sonya Mcfarland",
-    "details": ["eu", "ullamco", "incididunt", "dolor", "id", "velit", "minim"]
-  },
-  {
-    "id": "6356bfc636ea46c0d2f61ba7",
-    "img": "http://placehold.it/32x32",
-    "name": "Chrystal Waters",
-    "details": ["consectetur", "anim", "et", "nulla", "sit", "nulla", "culpa"]
+    "img": "https://media.istockphoto.com/photos/programming-code-abstract-technology-background-of-software-developer-picture-id871030872?k=20&m=871030872&s=612x612&w=0&h=j4ojqBQ2uAUK9B_D3ZJ5MzPzxrP5fQCUhk0NpOqwGWw=",
+    "name": "Software Development",
+    "details": [
+      "Data Structures",
+      "Structured Programming",
+      "Object Oriented Programming",
+      "ASP.Net",
+      "Design Patterns"
+    ]
   }
 ]

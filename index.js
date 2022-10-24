@@ -16,6 +16,13 @@ app.get('/products', (req, res) => {
     res.send(allProducts);
 })
 
+app.get('/product/:id', (req, res) => {
+    const id = req.params.id;
+    const product = allProducts.find(p => p.id == id)
+    res.send(product)
+    
+})
+
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);

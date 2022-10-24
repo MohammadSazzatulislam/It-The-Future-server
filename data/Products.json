@@ -1,0 +1,68 @@
+[
+  {
+    "id": "6356bfc68522c8383c07c391",
+    "img": "http://placehold.it/32x32",
+    "name": "Marva Franco",
+    "details": ["sint", "quis", "enim", "proident", "non", "cillum", "culpa"]
+  },
+  {
+    "id": "6356bfc69a6473dcc392a40c",
+    "img": "http://placehold.it/32x32",
+    "name": "Jenkins Morse",
+    "details": [
+      "consectetur",
+      "anim",
+      "excepteur",
+      "non",
+      "et",
+      "elit",
+      "veniam"
+    ]
+  },
+  {
+    "id": "6356bfc60c51676c10161186",
+    "img": "http://placehold.it/32x32",
+    "name": "Leola Norris",
+    "details": [
+      "officia",
+      "Lorem",
+      "dolor",
+      "tempor",
+      "laborum",
+      "incididunt",
+      "consequat"
+    ]
+  },
+  {
+    "id": "6356bfc6d79ef73d11091d4b",
+    "img": "http://placehold.it/32x32",
+    "name": "Brooks Orr",
+    "details": ["officia", "qui", "labore", "excepteur", "ex", "ea", "duis"]
+  },
+  {
+    "id": "6356bfc6a862e5103e22897e",
+    "img": "http://placehold.it/32x32",
+    "name": "Mejia Armstrong",
+    "details": [
+      "ad",
+      "consequat",
+      "aliqua",
+      "magna",
+      "cupidatat",
+      "nulla",
+      "esse"
+    ]
+  },
+  {
+    "id": "6356bfc63415fd52591ae4dc",
+    "img": "http://placehold.it/32x32",
+    "name": "Sonya Mcfarland",
+    "details": ["eu", "ullamco", "incididunt", "dolor", "id", "velit", "minim"]
+  },
+  {
+    "id": "6356bfc636ea46c0d2f61ba7",
+    "img": "http://placehold.it/32x32",
+    "name": "Chrystal Waters",
+    "details": ["consectetur", "anim", "et", "nulla", "sit", "nulla", "culpa"]
+  }
+]

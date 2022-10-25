@@ -8,7 +8,11 @@
       "SQL Reporting",
       "DB Design Concepts",
       "Tools (i.e SSIC, SSAS, SSRS)"
-    ]
+    ],
+    "about": "It's the job of a Big Data analyst to study the market by identifying, collecting, analyzing, visualizing, and communicating this data to help guide these future decisions.",
+    "time": ["12 months","Complete box"],
+    "price": "$320"
+
   },
   {
     "id": "6356bfc69a6473dcc392a40c",
@@ -20,7 +24,10 @@
       "Risk Managment",
       "Leadership",
       " Planning and Schedling "
-    ]
+    ],
+    "about": "Project management is the process of leading the work of a team to achieve all project goals within the given constraints.",
+    "time": ["12 months","Complete box"],
+    "price": "$370"
   },
   {
     "id": "6356bfc60c51676c10161186",
@@ -32,7 +39,10 @@
       "Structured Design",
       "System Design",
       "Software as a Service (Saas)"
-    ]
+    ],
+    "about": "Business Systems Analysts are responsible for delivering projects and initiatives involving business processes, business change and technology solutions.",
+    "time": ["12 months", "Complete box"],
+    "price": "$430"
   },
   {
     "id": "6356bfc6d79ef73d11091d4b",
@@ -44,7 +54,10 @@
       "Database Administration (tie)",
       "Data Cleansing / Integration",
       "Backup / Restore"
-    ]
+    ],
+    "about": "The job of a data analyst is to organize and demystify the collected data to build a working database. They are tasked with evaluating, designing, reviewing, and implementing a database. On a secondary level, they are also responsible for updating and maintaining a database.",
+    "time": ["12 months", "Complete box"],
+    "price": "$320"
   },
   {
     "id": "6356bfc6a862e5103e22897e",
@@ -56,7 +69,10 @@
       "Network Security",
       "Security Policies",
       "Desktop Support"
-    ]
+    ],
+    "about": "Network Security involves access control, virus and antivirus software, application security, network analytics, types of network-related security (endpoint, web, wireless), firewalls, VPN encryption and more.",
+    "time": ["12 months", "Complete box"],
+    "price": "$220"
   },
   {
     "id": "6356bfc63415fd52591ae4dc",
@@ -68,6 +84,9 @@
       "Object Oriented Programming",
       "ASP.Net",
       "Design Patterns"
-    ]
+    ],
+    "about": "Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.",
+    "time": ["12 months", "Complete box"],
+    "price": "$420"
   }
 ]

@@ -11,7 +11,10 @@
     ],
     "about": "It's the job of a Big Data analyst to study the market by identifying, collecting, analyzing, visualizing, and communicating this data to help guide these future decisions.",
     "time": ["12 months","Complete box"],
-    "price": "$320"
+    "price": "$320",
+    "img1" : "https://i.pinimg.com/originals/4a/1d/cd/4a1dcd871bd83f20d177e07e00fb53f4.jpg",
+    "img2" : "https://www.designveloper.com/wp-content/uploads/2020/12/What-Is-Big-Data-Analytics-1.jpg",
+    "img3" : "https://bestarion.com/wp-content/uploads/2021/03/data.jpg"
 
   },
   {
@@ -26,8 +29,11 @@
       " Planning and Schedling "
     ],
     "about": "Project management is the process of leading the work of a team to achieve all project goals within the given constraints.",
-    "time": ["12 months","Complete box"],
-    "price": "$370"
+    "time": ["12 months", "Complete box"],
+    "price": "$370",
+    "img1": "https://img.freepik.com/free-vector/team-leader-managing-project_1262-21430.jpg?w=2000",
+    "img2": "https://thumbs.dreamstime.com/b/project-management-virtual-screen-business-concept-120949475.jpg",
+    "img3": "https://st2.depositphotos.com/2065405/6477/i/950/depositphotos_64773109-stock-photo-word-cloud-project-management.jpg"
   },
   {
     "id": "6356bfc60c51676c10161186",
@@ -42,7 +48,10 @@
     ],
     "about": "Business Systems Analysts are responsible for delivering projects and initiatives involving business processes, business change and technology solutions.",
     "time": ["12 months", "Complete box"],
-    "price": "$430"
+    "price": "$430",
+    "img1": "https://www.betterteam.com/images/betterteam-healthcare-business-analyst-resume-6000x4000-2020127.jpeg?crop=4:3,smart&width=1200&dpr=2",
+    "img2": "https://img.freepik.com/free-vector/analyst-working-laptop-with-automation-process-business-process-automation-business-process-workflow-automated-business-system-concept_335657-400.jpg?w=2000",
+    "img3": "https://cdn.computercareers.org/wp-content/uploads/business-systems-analysis.jpg"
   },
   {
     "id": "6356bfc6d79ef73d11091d4b",
@@ -57,7 +66,10 @@
     ],
     "about": "The job of a data analyst is to organize and demystify the collected data to build a working database. They are tasked with evaluating, designing, reviewing, and implementing a database. On a secondary level, they are also responsible for updating and maintaining a database.",
     "time": ["12 months", "Complete box"],
-    "price": "$320"
+    "price": "$320",
+    "img1": "https://www.slideteam.net/media/catalog/product/cache/1280x720/d/a/data_scientist_tasks_and_skills_of_database_administrator_ppt_rules_slide01.jpg",
+    "img2": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/04/istock-858118324.jpg",
+    "img3": "https://st.depositphotos.com/1038886/2425/i/450/depositphotos_24259549-stock-photo-database.jpg"
   },
   {
     "id": "6356bfc6a862e5103e22897e",
@@ -72,7 +84,10 @@
     ],
     "about": "Network Security involves access control, virus and antivirus software, application security, network analytics, types of network-related security (endpoint, web, wireless), firewalls, VPN encryption and more.",
     "time": ["12 months", "Complete box"],
-    "price": "$220"
+    "price": "$220",
+    "img1": "https://knowtechie.com/wp-content/uploads/2022/06/Cybersecurity-webp.webp",
+    "img2": "https://files.merca20.com/uploads/2022/04/Panaut-ciberseguridad.jpg",
+    "img3": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/12/Blog-Image_Network-Security.png"
   },
   {
     "id": "6356bfc63415fd52591ae4dc",
@@ -87,6 +102,9 @@
     ],
     "about": "Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.",
     "time": ["12 months", "Complete box"],
-    "price": "$420"
+    "price": "$420",
+    "img1": "https://media.istockphoto.com/vectors/application-of-smartphone-with-business-graph-and-analytics-data-on-vector-id1193278024?k=20&m=1193278024&s=612x612&w=0&h=WhlTyThdGlvR5Ce8zvY2UxR_fskrms-Em40tJMuu-hQ=",
+    "img2": "https://www.dccscotland.co.uk/wp-content/uploads/2022/03/Software-development-company-Scotland.jpg",
+    "img3": "https://rankmakers.in/assets/images/services/software-development-services/custom-software-development.png"
   }
 ]

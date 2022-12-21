@@ -28,7 +28,7 @@ app.get("/", (req, res) => {
   res.send("All product Api is comming soon");
 });
 
-app.get("/products", verifyJWT, (req, res) => {
+app.get("/products", (req, res) => {
   res.send(allProducts);
 });
 
@@ -40,7 +40,7 @@ app.post("/jwt", async (req, res) => {
   res.send({ token });
 });
 
-app.get("/product/:id", verifyJWT, (req, res) => {
+app.get("/product/:id", (req, res) => {
   const id = req.params.id;
   const product = allProducts.find((p) => p.id == id);
   res.send(product);
